@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>My ASP.NET MVC Application</h1>
+            <nav>
+                <ul>
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+            </nav>
+        </header>
+        <div class="content">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>
+

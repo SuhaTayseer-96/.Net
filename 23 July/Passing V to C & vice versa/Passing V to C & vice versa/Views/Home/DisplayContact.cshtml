@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Contact Details";
+}
+
+<h2>Contact Details</h2>
+
+<p><strong>Name:</strong> @ViewBag.Name</p>
+<p><strong>Age:</strong> @ViewBag.Age</p>
+<p><strong>Gender:</strong> @ViewBag.Gender</p>
+<p><strong>Education:</strong> @ViewBag.Education</p>
+<p><strong>Hobbies:</strong></p>
+<ul>
+    @if (ViewBag.Hobbies != null)
+    {
+        foreach (var hobby in ViewBag.Hobbies)
+        {
+            <li>@hobby</li>
+        }
+    }
+    }
