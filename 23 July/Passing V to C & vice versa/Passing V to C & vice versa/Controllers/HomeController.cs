@@ -23,8 +23,12 @@ namespace YourNamespace.Controllers
             return View("DisplayContact");
         }
 
-        // GET: Home/DisplayContact
+        // GET: Home/DisplayContact [overloading]
         public ActionResult DisplayContact()
+        {
+            return View();
+        }
+        public ActionResult Page3()
         {
             return View();
         }

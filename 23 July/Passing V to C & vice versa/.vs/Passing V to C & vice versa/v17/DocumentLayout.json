@@ -1,21 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|c:\\users\\orange\\desktop\\mvc\\23 july\\passing v to c \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|c:\\users\\orange\\desktop\\mvc\\23 july\\passing v to c \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\home\\displaycontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|c:\\users\\orange\\desktop\\.net\\.net\\23 july\\passing v to c \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|c:\\users\\orange\\desktop\\.net\\.net\\23 july\\passing v to c \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\home\\displaycontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\views\\home\\displaycontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|c:\\users\\orange\\desktop\\mvc\\23 july\\passing v to c \u0026 vice versa\\passing v to c \u0026 vice versa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\passing v to c \u0026 vice versa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\passing v to c \u0026 vice versa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|c:\\users\\orange\\desktop\\mvc\\23 july\\passing v to c \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\user\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\views\\user\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\home\\page3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\views\\home\\page3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\passing v to c \u0026 vice versa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4372FE0-5DEC-40F6-99C0-BF33BE9E5A52}|Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa.csproj|solutionrelative:passing v to c \u0026 vice versa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,15 +46,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Passing V to C \u0026 vice versa\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:22:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Passing V to C \u0026 vice versa\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T19:08:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page3.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\Page3.cshtml",
+              "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Views\\Home\\Page3.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\Page3.cshtml",
+              "RelativeToolTip": "Passing V to C \u0026 vice versa\\Views\\Home\\Page3.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T19:01:41.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\User\\Page1.cshtml",
+              "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Views\\User\\Page1.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\User\\Page1.cshtml",
+              "RelativeToolTip": "Passing V to C \u0026 vice versa\\Views\\User\\Page1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T18:59:09.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Passing V to C \u0026 vice versa\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:57:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DisplayContact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\DisplayContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\DisplayContact.cshtml",
               "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Views\\Home\\DisplayContact.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\DisplayContact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\DisplayContact.cshtml",
               "RelativeToolTip": "Passing V to C \u0026 vice versa\\Views\\Home\\DisplayContact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -43,13 +125,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Passing V to C \u0026 vice versa\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowCAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T18:02:52.293Z",
               "EditorCaption": ""
@@ -58,27 +140,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "Passing V to C \u0026 vice versa\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-23T18:02:21.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Passing V to C \u0026 vice versa\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\23 July\\Passing V to C \u0026 vice versa\\Passing V to C \u0026 vice versa\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Passing V to C \u0026 vice versa\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T18:01:50.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T18:01:50.988Z"
             }
           ]
         }
