@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\25 July\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6FE31-038B-4F41-9048-7DA31E65D623}|25 July\\25 July.csproj|c:\\users\\orange\\source\\repos\\25 july\\25 july\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10C6FE31-038B-4F41-9048-7DA31E65D623}|25 July\\25 July.csproj|solutionrelative:25 july\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6FE31-038B-4F41-9048-7DA31E65D623}|25 July\\25 July.csproj|c:\\users\\orange\\source\\repos\\25 july\\25 july\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6FE31-038B-4F41-9048-7DA31E65D623}|25 July\\25 July.csproj|solutionrelative:25 july\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6FE31-038B-4F41-9048-7DA31E65D623}|25 July\\25 July.csproj|c:\\users\\orange\\source\\repos\\25 july\\25 july\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6FE31-038B-4F41-9048-7DA31E65D623}|25 July\\25 July.csproj|solutionrelative:25 july\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6FE31-038B-4F41-9048-7DA31E65D623}|25 July\\25 July.csproj|c:\\users\\orange\\source\\repos\\25 july\\25 july\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{10C6FE31-038B-4F41-9048-7DA31E65D623}|25 July\\25 July.csproj|solutionrelative:25 july\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\25 July\\25 July\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "25 July\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\25 July\\25 July\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "25 July\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T20:10:17.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\25 July\\25 July\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "25 July\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\25 July\\25 July\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "25 July\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:09:54.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\25 July\\25 July\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "25 July\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\25 July\\25 July\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "25 July\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:09:20.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\25 July\\25 July\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "25 July\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\25 July\\25 July\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "25 July\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-25T20:07:24.654Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
