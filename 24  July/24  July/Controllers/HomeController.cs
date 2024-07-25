@@ -22,7 +22,6 @@ namespace _24__July.Controllers
 
             public ActionResult Contact(FormCollection form)
             {
-                // Process the input data
                 ViewBag.email = form["email"];
                 ViewBag.fullname = form["fullname"];
                 ViewBag.message = form["message"];
@@ -42,7 +41,7 @@ namespace _24__July.Controllers
             if (email == "ss.ss@gmail.com" && password == "159951")
             {
                 Session["login"] = true;
-                Session["username"] = email; // Save the username in the session
+                Session["username"] = email; 
                 return RedirectToAction("Index");
             }
             ViewBag.Message = "Invalid credentials. Please try again.";
