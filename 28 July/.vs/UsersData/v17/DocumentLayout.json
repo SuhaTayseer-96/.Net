@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|c:\\users\\orange\\downloads\\mvc learn\\usersdata\\usersdata\\views\\mvcearn\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\mvcearn\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\controllers\\mvclearnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\controllers\\mvclearnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\models\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\models\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\models\\mvclearn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\models\\mvclearn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\controllers\\mvcearncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\controllers\\mvcearncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\mvclearns\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\mvclearns\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\mvclearns\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\mvclearns\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\mvclearns\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\mvclearns\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\mvclearns\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\mvclearns\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\mvclearns\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\mvclearns\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\usersdata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1D146C-5203-4E1B-A5FC-4483D8ED8D2B}|UsersData\\UsersData.csproj|solutionrelative:usersdata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\mvcearn\\Index.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\mvcearn\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\mvcearn\\Index.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\mvcearn\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:47:07.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mvcearnController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Controllers\\mvcearnController.cs",
+              "RelativeDocumentMoniker": "UsersData\\Controllers\\mvcearnController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Controllers\\mvcearnController.cs",
+              "RelativeToolTip": "UsersData\\Controllers\\mvcearnController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:46:07.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:38:17.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:38:16.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:38:14.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.tt",
+              "RelativeDocumentMoniker": "UsersData\\Models\\Model1.tt",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.tt",
+              "RelativeToolTip": "UsersData\\Models\\Model1.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-28T11:38:06.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:37:38.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:37:33.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "UsersData\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "UsersData\\Models\\Model1.Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:37:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "UsersData\\Models\\Model1.edmx.diagram",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.edmx.diagram",
+              "RelativeToolTip": "UsersData\\Models\\Model1.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-28T11:37:18.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:36:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\MVClearns\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Edit.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\MVClearns\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:36:45.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MVClearn.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\MVClearn.cs",
+              "RelativeDocumentMoniker": "UsersData\\Models\\MVClearn.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\MVClearn.cs",
+              "RelativeToolTip": "UsersData\\Models\\MVClearn.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:36:34.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "UsersData\\Models\\Model1.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.cs",
+              "RelativeToolTip": "UsersData\\Models\\Model1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:36:32.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "UsersData\\Models\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.Designer.cs",
+              "RelativeToolTip": "UsersData\\Models\\Model1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:36:31.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "UsersData\\Models\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.Context.tt",
+              "RelativeToolTip": "UsersData\\Models\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-28T11:36:28.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UsersData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UsersData\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:36:23.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Index.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\MVClearns\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Index.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\MVClearns\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:36:05.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Details.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\MVClearns\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Details.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\MVClearns\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:36:04.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\MVClearns\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Delete.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\MVClearns\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T10:44:16.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Create.cshtml",
+              "RelativeDocumentMoniker": "UsersData\\Views\\MVClearns\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Views\\MVClearns\\Create.cshtml",
+              "RelativeToolTip": "UsersData\\Views\\MVClearns\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T09:25:16.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MVClearnsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Controllers\\MVClearnsController.cs",
+              "RelativeDocumentMoniker": "UsersData\\Controllers\\MVClearnsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Controllers\\MVClearnsController.cs",
+              "RelativeToolTip": "UsersData\\Controllers\\MVClearnsController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwGIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:24:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "UsersData\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\mvc learn\\UsersData\\UsersData\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "UsersData\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-28T09:18:00.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
