@@ -175,9 +175,9 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Images\Orange_logo1.png" />
-    <Content Include="Images\Orange_logo2.png" />
-    <Content Include="Images\Orange_logo3.png" />
+    <Content Include="Images\Orange_logo1.jpg" />
+    <Content Include="Images\Orange_logo2.jpg" />
+    <Content Include="Images\Orange_logo3.jpg" />
     <Content Include="Models\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>
