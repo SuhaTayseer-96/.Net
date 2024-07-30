@@ -10,7 +10,7 @@ namespace _29_July___Task_6.Controllers
 {
     public class ORCo4Controller : Controller
     {
-        private users_CRUDEntities db = new users_CRUDEntities();
+        private CRUD_DATAEntities db = new CRUD_DATAEntities();
         // GET: ORCo4
         public ActionResult Index()
         {
@@ -39,8 +39,9 @@ namespace _29_July___Task_6.Controllers
         public ActionResult Login(users_CRUD User_) {
 
 
-            var checkInput = db.users_CRUD.Where(ModelBinderAttribute => ModelBinderAttribute.Email && model.Password == User_.Password.FirstOrDefault
-            );
+            var checkInput = db.users_CRUD.Where(model=> model.Email == User_.Email && model.Password == User_.Password).FirstOrDefault();
+
+
             Session["ID"] = checkInput.ID;
             if (checkInput != null)
             { 
@@ -51,15 +52,15 @@ namespace _29_July___Task_6.Controllers
         public ActionResult Profile()
         {
             var ID =(int)Session["ID"];
-            var user = db.users.Find(userID);
-            return View(db.users);
+            var user = db.users_CRUD.Find(ID);
+            return View(db.users_CRUD);
         }
         [HttpPost]
         public ActionResult Profile(users_CRUD User_)
         {
            db.Entry(User_).State = EntityState.Modified;
             db.SaveChanges();
-            return View(db.users);
+            return View(db.users_CRUD);
         }
 
     }
