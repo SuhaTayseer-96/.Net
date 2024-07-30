@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\controllers\\users_crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\controllers\\users_crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\views\\users_crud\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\views\\users_crud\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\views\\users_crud\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\views\\users_crud\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\views\\users_crud\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\views\\users_crud\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\views\\users_crud\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\views\\users_crud\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\views\\users_crud\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\views\\users_crud\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|c:\\users\\orange\\source\\repos\\29 july-crud task\\29 july-crud task\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{17013D15-ED3E-4F32-B439-5075FF40B6F0}|29 July-Crud Task\\29 July-Crud Task.csproj|solutionrelative:29 july-crud task\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Views\\users_CRUD\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\ResetPassword.cshtml",
+              "RelativeToolTip": "29 July-Crud Task\\Views\\users_CRUD\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T21:20:55.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\Profile.cshtml",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Views\\users_CRUD\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\Profile.cshtml",
+              "RelativeToolTip": "29 July-Crud Task\\Views\\users_CRUD\\Profile.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T20:42:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "29 July-Crud Task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T20:33:40.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "29 July-Crud Task\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:15:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\Login.cshtml",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Views\\users_CRUD\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\Login.cshtml",
+              "RelativeToolTip": "29 July-Crud Task\\Views\\users_CRUD\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T20:14:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\Register.cshtml",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Views\\users_CRUD\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\Register.cshtml",
+              "RelativeToolTip": "29 July-Crud Task\\Views\\users_CRUD\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:43:40.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Views\\users_CRUD\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Views\\users_CRUD\\HomePage.cshtml",
+              "RelativeToolTip": "29 July-Crud Task\\Views\\users_CRUD\\HomePage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:39:07.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users_CRUDController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Controllers\\users_CRUDController.cs",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Controllers\\users_CRUDController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Controllers\\users_CRUDController.cs",
+              "RelativeToolTip": "29 July-Crud Task\\Controllers\\users_CRUDController.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAgwN8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:36:38.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "29 July-Crud Task\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\29 July-Crud Task\\29 July-Crud Task\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "29 July-Crud Task\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-30T17:46:38.581Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
