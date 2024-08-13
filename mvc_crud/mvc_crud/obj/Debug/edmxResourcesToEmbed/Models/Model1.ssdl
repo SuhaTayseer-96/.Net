@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MVCModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="batch">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="batch" Type="varchar" MaxLength="50" />
+    <Property Name="year" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="course">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="course" Type="varchar" MaxLength="50" />
+    <Property Name="duration" Type="int" />
+  </EntityType>
+  <EntityType Name="mvcc1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cosname" Type="varchar" MaxLength="255" />
+    <Property Name="mobileno" Type="varchar" MaxLength="1" />
+    <Property Name="address" Type="varchar" MaxLength="255" />
+    <Property Name="total" Type="int" />
+  </EntityType>
+  <EntityType Name="mvcc2">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="productn" Type="varchar" MaxLength="255" />
+    <Property Name="price" Type="int" />
+    <Property Name="quantity" Type="int" />
+    <Property Name="fstid" Type="int" />
+  </EntityType>
+  <EntityType Name="mvcc3">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fstname" Type="varchar" MaxLength="255" />
+    <Property Name="lstname" Type="varchar" MaxLength="255" />
+    <Property Name="username" Type="varchar" MaxLength="255" />
+    <Property Name="password" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="registration">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="varchar" MaxLength="50" />
+    <Property Name="lastname" Type="varchar" MaxLength="50" />
+    <Property Name="nic" Type="varchar" MaxLength="50" />
+    <Property Name="course_id" Type="int" />
+    <Property Name="batch_id" Type="int" />
+    <Property Name="tele" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fstname" Type="varchar" MaxLength="50" />
+    <Property Name="lstname" Type="varchar" MaxLength="50" />
+    <Property Name="username" Type="varchar" MaxLength="50" />
+    <Property Name="password" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK__mvcc2__fstid__398D8EEE">
+    <End Role="mvcc1" Type="Self.mvcc1" Multiplicity="0..1" />
+    <End Role="mvcc2" Type="Self.mvcc2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="mvcc1">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="mvcc2">
+        <PropertyRef Name="fstid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_registration_batch">
+    <End Role="batch" Type="Self.batch" Multiplicity="0..1" />
+    <End Role="registration" Type="Self.registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="batch">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="registration">
+        <PropertyRef Name="batch_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_registration_course">
+    <End Role="course" Type="Self.course" Multiplicity="0..1" />
+    <End Role="registration" Type="Self.registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="course">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="registration">
+        <PropertyRef Name="course_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MVCModelStoreContainer">
+    <EntitySet Name="batch" EntityType="Self.batch" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="course" EntityType="Self.course" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="mvcc1" EntityType="Self.mvcc1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="mvcc2" EntityType="Self.mvcc2" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="mvcc3" EntityType="Self.mvcc3" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="registration" EntityType="Self.registration" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="user" EntityType="Self.user" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__mvcc2__fstid__398D8EEE" Association="Self.FK__mvcc2__fstid__398D8EEE">
+      <End Role="mvcc1" EntitySet="mvcc1" />
+      <End Role="mvcc2" EntitySet="mvcc2" />
+    </AssociationSet>
+    <AssociationSet Name="FK_registration_batch" Association="Self.FK_registration_batch">
+      <End Role="batch" EntitySet="batch" />
+      <End Role="registration" EntitySet="registration" />
+    </AssociationSet>
+    <AssociationSet Name="FK_registration_course" Association="Self.FK_registration_course">
+      <End Role="course" EntitySet="course" />
+      <End Role="registration" EntitySet="registration" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

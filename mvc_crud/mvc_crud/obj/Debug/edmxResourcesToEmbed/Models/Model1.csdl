@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MVCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="batch">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="batch1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="year" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="registrations" Relationship="Self.FK_registration_batch" FromRole="batch" ToRole="registration" />
+  </EntityType>
+  <EntityType Name="course">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="course1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="duration" Type="Int32" />
+    <NavigationProperty Name="registrations" Relationship="Self.FK_registration_course" FromRole="course" ToRole="registration" />
+  </EntityType>
+  <EntityType Name="mvcc1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cosname" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="mobileno" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="address" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="total" Type="Int32" />
+    <NavigationProperty Name="mvcc2" Relationship="Self.FK__mvcc2__fstid__398D8EEE" FromRole="mvcc1" ToRole="mvcc2" />
+  </EntityType>
+  <EntityType Name="mvcc2">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="productn" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="price" Type="Int32" />
+    <Property Name="quantity" Type="Int32" />
+    <Property Name="fstid" Type="Int32" />
+    <NavigationProperty Name="mvcc1" Relationship="Self.FK__mvcc2__fstid__398D8EEE" FromRole="mvcc2" ToRole="mvcc1" />
+  </EntityType>
+  <EntityType Name="mvcc3">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fstname" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="lstname" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="username" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="registration">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="firstname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="lastname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="nic" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="course_id" Type="Int32" />
+    <Property Name="batch_id" Type="Int32" />
+    <Property Name="tele" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="batch" Relationship="Self.FK_registration_batch" FromRole="registration" ToRole="batch" />
+    <NavigationProperty Name="course" Relationship="Self.FK_registration_course" FromRole="registration" ToRole="course" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fstname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="lstname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_registration_batch">
+    <End Role="batch" Type="Self.batch" Multiplicity="0..1" />
+    <End Role="registration" Type="Self.registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="batch">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="registration">
+        <PropertyRef Name="batch_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_registration_course">
+    <End Role="course" Type="Self.course" Multiplicity="0..1" />
+    <End Role="registration" Type="Self.registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="course">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="registration">
+        <PropertyRef Name="course_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__mvcc2__fstid__398D8EEE">
+    <End Role="mvcc1" Type="Self.mvcc1" Multiplicity="0..1" />
+    <End Role="mvcc2" Type="Self.mvcc2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="mvcc1">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="mvcc2">
+        <PropertyRef Name="fstid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MVCEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="batches" EntityType="Self.batch" />
+    <EntitySet Name="courses" EntityType="Self.course" />
+    <EntitySet Name="mvcc1" EntityType="Self.mvcc1" />
+    <EntitySet Name="mvcc2" EntityType="Self.mvcc2" />
+    <EntitySet Name="mvcc3" EntityType="Self.mvcc3" />
+    <EntitySet Name="registrations" EntityType="Self.registration" />
+    <EntitySet Name="users" EntityType="Self.user" />
+    <AssociationSet Name="FK_registration_batch" Association="Self.FK_registration_batch">
+      <End Role="batch" EntitySet="batches" />
+      <End Role="registration" EntitySet="registrations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_registration_course" Association="Self.FK_registration_course">
+      <End Role="course" EntitySet="courses" />
+      <End Role="registration" EntitySet="registrations" />
+    </AssociationSet>
+    <AssociationSet Name="FK__mvcc2__fstid__398D8EEE" Association="Self.FK__mvcc2__fstid__398D8EEE">
+      <End Role="mvcc1" EntitySet="mvcc1" />
+      <End Role="mvcc2" EntitySet="mvcc2" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,74 @@
+﻿@model mvc_crud.Models.registration
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>registration</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.firstname)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.firstname)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.lastname)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.lastname)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.nic)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.nic)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.tele)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.tele)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.batch.batch1)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.batch.batch1)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.course.course1)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.course.course1)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

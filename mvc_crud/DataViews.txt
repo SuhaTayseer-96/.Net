@@ -1,0 +1,5 @@
+﻿Build started at 20:00...
+1>------ Build started: Project: E-Commerce, Configuration: Debug Any CPU ------
+1>  E-Commerce -> C:\Users\Orange\Desktop\E-Commerce\E-Commerce\E-Commerce\bin\E-Commerce.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 20:00 and took 00.236 seconds ==========

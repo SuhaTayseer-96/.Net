@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\views\\batches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\views\\batches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\views\\registrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\views\\registrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|c:\\users\\orange\\desktop\\.net\\.net\\mvc_crud\\mvc_crud\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6C2D611D-9DBA-4DFC-87ED-9344536F53F7}|mvc_crud\\mvc_crud.csproj|solutionrelative:mvc_crud\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "mvc_crud\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "mvc_crud\\Models\\Model1.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:07:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvc_crud\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvc_crud\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:54:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "mvc_crud\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "mvc_crud\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:45:29.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvc_crud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvc_crud\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:25:56.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\users\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc_crud\\Views\\users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\users\\Create.cshtml",
+              "RelativeToolTip": "mvc_crud\\Views\\users\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:29:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\users\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_crud\\Views\\users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\users\\Index.cshtml",
+              "RelativeToolTip": "mvc_crud\\Views\\users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:26:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\usersController.cs",
+              "RelativeDocumentMoniker": "mvc_crud\\Controllers\\usersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\usersController.cs",
+              "RelativeToolTip": "mvc_crud\\Controllers\\usersController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:26:24.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\batches\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_crud\\Views\\batches\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\batches\\Index.cshtml",
+              "RelativeToolTip": "mvc_crud\\Views\\batches\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:22:06.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "batchesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\batchesController.cs",
+              "RelativeDocumentMoniker": "mvc_crud\\Controllers\\batchesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\batchesController.cs",
+              "RelativeToolTip": "mvc_crud\\Controllers\\batchesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:22:01.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc_crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvc_crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:13:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\registrations\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_crud\\Views\\registrations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\registrations\\Index.cshtml",
+              "RelativeToolTip": "mvc_crud\\Views\\registrations\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:12:43.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "registrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\registrationsController.cs",
+              "RelativeDocumentMoniker": "mvc_crud\\Controllers\\registrationsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\registrationsController.cs",
+              "RelativeToolTip": "mvc_crud\\Controllers\\registrationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:12:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "mvc_crud\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "mvc_crud\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:08:19.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_crud\\Views\\courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Views\\courses\\Index.cshtml",
+              "RelativeToolTip": "mvc_crud\\Views\\courses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:07:44.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "coursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\coursesController.cs",
+              "RelativeDocumentMoniker": "mvc_crud\\Controllers\\coursesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Controllers\\coursesController.cs",
+              "RelativeToolTip": "mvc_crud\\Controllers\\coursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:07:19.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "mvc_crud\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\mvc_crud\\mvc_crud\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "mvc_crud\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-02T06:04:22.93Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

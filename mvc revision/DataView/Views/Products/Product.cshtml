@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Product";
+}
+
+<h2>Product</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card">
+            <form action="/Products/Product" method="post">
+                <label for="ImageURL">Image</label>
+                <input id="ImageURL" type="text" name="Image" />
+                <br>
+                <label for="addproduct ">Product</label>
+                <input id="addproduct" type="text" name="ProductName" />
+
+                <br><br>
+                <input type="submit" value="add" />
+            </form>
+            </br>
+        </div>
+    </div>
+</div>
