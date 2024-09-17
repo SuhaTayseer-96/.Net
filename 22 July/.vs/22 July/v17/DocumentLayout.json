@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\22 July\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36F0AD61-B736-4ABB-B6B5-C29DEB0F76F7}|22 July\\22 July.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\22 July\\22 july\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36F0AD61-B736-4ABB-B6B5-C29DEB0F76F7}|22 July\\22 July.csproj|c:\\users\\orange\\desktop\\.net\\.net\\22 july\\22 july\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36F0AD61-B736-4ABB-B6B5-C29DEB0F76F7}|22 July\\22 July.csproj|solutionrelative:22 july\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{36F0AD61-B736-4ABB-B6B5-C29DEB0F76F7}|22 July\\22 July.csproj|solutionrelative:22 july\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36F0AD61-B736-4ABB-B6B5-C29DEB0F76F7}|22 July\\22 July.csproj|c:\\users\\orange\\desktop\\.net\\.net\\22 july\\22 july\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{36F0AD61-B736-4ABB-B6B5-C29DEB0F76F7}|22 July\\22 July.csproj|C:\\Users\\Orange\\Desktop\\.net\\.Net\\22 July\\22 july\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{36F0AD61-B736-4ABB-B6B5-C29DEB0F76F7}|22 July\\22 July.csproj|solutionrelative:22 july\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -49,8 +49,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\22 July\\22 July\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "22 July\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\22 July\\22 July\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "22 July\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:32:50.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -120,8 +149,7 @@
               "RelativeToolTip": "22 July\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T14:39:03.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T14:39:03.353Z"
             },
             {
               "$type": "Document",
@@ -157,21 +185,7 @@
               "RelativeToolTip": "22 July\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T14:37:14.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\22 July\\22 July\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "22 July\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.Net\\22 July\\22 July\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "22 July\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:32:50.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T14:37:14.438Z"
             }
           ]
         }
