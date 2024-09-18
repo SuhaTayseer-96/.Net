@@ -84,3 +84,4 @@ C:\Users\Orange\source\repos\school_system\school_system\obj\Debug\school_system
 C:\Users\Orange\source\repos\school_system\school_system\obj\Debug\school_system.Migrations.InitialCreate.resources
 C:\Users\Orange\source\repos\school_system\school_system\obj\Debug\school_system.csproj.GenerateResource.cache
 C:\Users\Orange\source\repos\school_system\school_system\obj\Debug\school_system.Migrations.AddDateofBirthToStudent.resources
+C:\Users\Orange\source\repos\school_system\school_system\obj\Debug\school_system.Migrations.InitialCreate1.resources

@@ -8,25 +8,44 @@ namespace school_system.Models
 {
     public class ApplicationDbContext : DbContext
     {
-        // Constructor that uses a connection string from the configuration file
         public ApplicationDbContext() : base("School")
         {
         }
 
-        // DbSet for the Product entity representing the Products table in the database
         public DbSet<Assignments> Assignments { get; set; }
         public DbSet<Teacher> Teachers { get; set; }
 
         public DbSet<Students> Students { get; set; }
+        public DbSet<StudentDetails> StudentDetails { get; set; }
+
+        public DbSet<Course> Courses { get; set; }
 
 
-        // Configure models and remove table name pluralization (optional)
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            // Prevent table names from being pluralized (optional)
-            modelBuilder.Conventions.Remove<System.Data.Entity.ModelConfiguration.Conventions.PluralizingTableNameConvention>();
+            // One-to-One relationship between Student and StudentDetails
+            modelBuilder.Entity<Students>()
+                .HasOptional(s => s.StudentDetails)
+                .WithRequired(sd => sd.Student);
+
+            // One-to-Many relationship between Teacher and Course
+            modelBuilder.Entity<Teacher>()
+                .HasMany(t => t.Courses)
+                .WithRequired(c => c.Teacher)
+                .HasForeignKey(c => c.TeacherId);
 
             base.OnModelCreating(modelBuilder);
         }
+
+
+
+
+
+        //protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Conventions.Remove<System.Data.Entity.ModelConfiguration.Conventions.PluralizingTableNameConvention>();
+
+        //    base.OnModelCreating(modelBuilder);
+        //}
     }
 }

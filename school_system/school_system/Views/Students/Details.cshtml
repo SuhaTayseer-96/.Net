@@ -1,0 +1,33 @@
+﻿@model school_system.Models.Students
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Name</dt>
+        <dd>@Model.FirstName @Model.LastName</dd>
+
+        <dt>Date of Birth</dt>
+        <dd>@Model.DateOfBirth?.ToString("dd/MM/yyyy")</dd>
+
+        <dt>Student Details</dt>
+        <dd>
+            @if (Model.StudentDetails != null)
+            {
+                <p>Address: @Model.StudentDetails.Address</p>
+                <p>Date of Birth: @Model.StudentDetails.DateOfBirth.ToString("dd/MM/yyyy")</p>
+            }
+            else
+            {
+                <p>No additional details available</p>
+            }
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID}) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

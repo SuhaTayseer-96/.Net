@@ -1,0 +1,57 @@
+﻿@model school_system.Models.Teacher
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Teacher</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Subject)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Subject)
+        </dd>
+    </dl>
+</div>
+
+<h3>Courses Taught by @Model.Name</h3>
+
+@if (Model.Courses != null && Model.Courses.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Course Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in Model.Courses)
+            {
+                <tr>
+                    <td>@course.Title</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>This teacher is not assigned to any courses.</p>
+}
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

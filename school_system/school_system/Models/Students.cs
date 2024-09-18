@@ -15,5 +15,7 @@ namespace school_system.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime? DateOfBirth { get; set; } // nullable here
+        public virtual StudentDetails StudentDetails { get; set; }
+
     }
 }
