@@ -1,0 +1,11 @@
+﻿@model codefirst.Models.Class
+
+<h2>Add Class</h2>
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label for="ClassName">Class Name</label>
+        @Html.TextBoxFor(m => m.ClassName, new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+}
